@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;MultiThreading&apos; to &apos;suprajajavaproject&apos;" description="Move &apos;MultiThreading&apos; to &apos;suprajajavaproject&apos;" destination="/suprajajavaproject" element1="/bin/MultiThreading" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1677761316289" updateReferences="true"/>
+</session>
